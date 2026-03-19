@@ -1,5 +1,8 @@
-#Uitwerkingen van a), b) en c) 
+voor het gebruiken van sisl op een windows laptop gebruik google collab. Om het script van het numerieke deel te runnen in collab moet sisl geïnstalleerd zijn en de helper_functions in de file tree staan voor collab. Het toevoegen in de file tree kan gedaan worden door in de balk links (en onder opdrachten) naar 'bestanden' te gaan. Dit opent een tree met een map ... en sample data, open deze niet. Nu kan het gedownloadde bestand van de helper_functions hierin gekopieerd worden door bovenaan in de tree te gaan naar upload symbool, gebruik dit om het helper_functions.py bestand toe te voegen. 
 
+
+
+#Uitwerkingen van a), b) en c) 
 a) 
 Only the pz orbitals are relevant in Hückel calculations of C-only conjugated hydrocarbons. The other orbitals are interacting strongly with the 1s orbitals of the hydrogen orbitals and will not contribute to the chemistry, hence they are neglected. The energies alpha that are relevant  are the on-site energie of the electron of a carbon atom. The relevant interaction energie beta is the hopping energie of the electron with its nearest neighbor. 
 
